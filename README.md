@@ -4,7 +4,8 @@
 > Reverse shell, RCE PoCs, SSRF chains – curated.
 
 <p align="center">
-  <img src="./cve_qr.png" alt="CVE Drop" width="250"/>
+![image](https://github.com/user-attachments/assets/4919e319-b637-4dbf-9c57-ae0effa935bf)
+
 </p>
 
 🛑 Not for beginners.  
